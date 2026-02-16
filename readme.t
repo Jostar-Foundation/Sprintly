@@ -1,3 +1,8 @@
+Sprintly-Beta (Agile development and workflow platform)
+=======================================================
+
+Sprintly is an agile development and workflow platform designed to help teams manage their projects efficiently. It provides tools for planning, tracking, and collaborating on software development projects, making it easier for teams to stay organized and deliver high-quality products.
+
 # Frontend installation setup
 1] npm install
 2] npm install @clerk/clerk-react

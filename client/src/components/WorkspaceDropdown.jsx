@@ -3,7 +3,7 @@ import { ChevronDown, Check, Plus } from "lucide-react";
 import { useDispatch, useSelector } from "react-redux";
 import { setCurrentWorkspace } from "../features/workspaceSlice";
 import { useNavigate } from "react-router-dom";
-import { dummyWorkspaces } from "../assets/assets";
+// import { dummyWorkspaces } from "../assets/assets";
 import { useClerk, useOrganizationList } from "@clerk/clerk-react";
 
 function WorkspaceDropdown() {

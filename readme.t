@@ -20,3 +20,21 @@ Sprintly is an agile development and workflow platform designed to help teams ma
 12] npm install inngest
 13] npm install axios
 14] npm install nodemailer
+
+# to push the code in github
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JoshuaThadi/sprintly.git
+git push -u origin main
+
+# to push the code again after deletion
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/JoshuaThadi/sprintly.git
+git remote -v
+git status
+git add .
+git commit -m "Initial sprintly project setup"
+git push -u origin main --force

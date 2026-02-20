@@ -165,15 +165,31 @@ While Sprintly provides significant benefits, it also has some limitations:
 
 
 
-## 🧰 Project Overview
-
-<img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/sprintly-agile.png">
-<img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/DashboardPage.png">
-<img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/TasksPage.png">
-<img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/calenderPage.png">
-<img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/AnalysisPage.png">
-<img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/commentpage.png">
-<img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/settingPage.png">
+## 🧰 Project Overview<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img width="100%" src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/sprintly-agile.png" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/DashboardPage.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/TasksPage.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/calenderPage.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/AnalysisPage.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/commentpage.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Jostar-Foundation/Sprintly/blob/main/assets/settingPage.png" width="100%" />
+    </div>
+  </div>
+</div>
 
 
 ---

@@ -18,7 +18,7 @@ Sprintly replaces manual tracking methods such as spreadsheets, emails, and pape
     <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React"/></a>
   <a href="https://vitejs.dev" target="_blank">
     <img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
-  <a href="https://expressjs.com" target="_blank"><br>
+  <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/></a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
